@@ -8,7 +8,7 @@
     <ProjectGuid>{BD18C01B-BDB1-4164-AF39-A753FDDB8669}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MoreLinqSamples</RootNamespace>
+    <RootNamespace>Comaid.MoreLinqExamples</RootNamespace>
     <AssemblyName>MoreLinqSamples</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -58,7 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="MoreLinqTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
